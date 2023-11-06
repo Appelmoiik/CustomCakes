@@ -3,10 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    color: beige;
 }
 
 body {
-   color: beige;
+   color: beige
 }
 
 .hero {
@@ -213,9 +214,10 @@ body {
     background-color: beige;
     padding: 20px;
     margin-bottom: 40px;
+    
 }
 body{
-    background: whitesmoke;
+    background: beige
 }
 h6 {
     font-size: 30px;
