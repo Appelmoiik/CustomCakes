@@ -444,3 +444,9 @@ textarea:valid~label{
         margin-bottom: 0;
     }
 }
+ #fone{
+    text-decoration: none;
+    font-weight: bolder;
+    letter-spacing: 1.5px;
+    
+ }
