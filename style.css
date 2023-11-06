@@ -112,7 +112,7 @@ body {
 
     background-position: -750px 0;
 
-    animation: backcolor 5s linear infinite alternate;
+    animation: backcolor 4s linear infinite alternate;
 
 }
 
@@ -212,9 +212,11 @@ body {
     flex-direction: column;
     background-color: whitesmoke;
     padding: 20px;
-    margin-bottom: 30px;
+    margin-bottom: 40px;
 }
-
+body{
+    background: whitesmoke;
+}
 h6 {
     font-size: 30px;
     color: palevioletred;
